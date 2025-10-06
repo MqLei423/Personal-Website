@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "MengQi Lei"
-resume_title:                   "Student at University of Illinois Urbana-Champaign"
+resume_title:                   "Software Engineer & Game Developer"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "lisasimpson@youremailaddress.com"
@@ -23,7 +23,18 @@ resume_contact_address:         "742 Evergreen Terrace, Springfield"
 resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: > 
+  <p>Hi! I am MengQi Lei a passionate software engineer, game developer and full-time student at University of Illinois Urbana-Champaign. I'm currently persuing Master of Computer Science degree with expected graduation date of May 2027. Additionally, I graduated with Bachelor of Science in Computer Science & Engineering at The Ohio State University on May 2025.</p>
+
+  <p> During my time at Ohio State, I have served as a **Teaching Assistant** for a junior/senior-level computer animation and video games class at The Ohio State University (CSE3541/5541). In this role, I had the privilege of assisting over 180 students with their Unity and C# projects, helping them clarify technical concepts and debug issues. I also facilitated communication between students and teaching staff, which strengthened collaboration within the course. This experience allowed me to not only deepen my own understanding of core concepts but also to help others on their learning journey, a rewarding experience that complements my technical skills.</p>
+
+  <p> In addition, During my time as a **PC Game Developer Intern** at Resilience, Inc., I was able to turn creative visions into reality by designing and implementing 2D and 3D gameplay systems using Unity and C#. My work included developing player controls, physics interactions, and UI features, all with the goal of enhancing the overall user experience. This role was a great opportunity to apply my skills in an agile environment, where I collaborated with a cross-functional team of eight developers to deliver high-quality code through version control and peer reviews, ultimately accelerating our feature delivery and reducing bug resolution time.</p>
+
+  <p> I have a wide range of interests that covers **game development, artificial intelligence, full-stack development, and mobile development**. I also have experience with several coding languages including but not limited to Java, Python, C#, C++ and C. With my experience and skills, I'm looking for an internship oppurtunity for Summer and Fall 2026 to further develop my skills and contribute to the industry with my passion.</p>
+
+  <p> I am also a lifelong aviation geek. I'm obsessed with civil aviation for as long as I can remember. Besides everything about plane, I also enjoy soccer very much, both playing and watching.</p>
+
+  <p> Feel free to connect with me on Linkedin, check out my resume, and if you also like aviation, make sure to take a look at my YouTube channel! I'm eager to enbrace wherever my interests and skills take me on my journey as a software engineer and aviation enthusiast.</p>
 
 # Decide which sections to use
 # comment out to hide
