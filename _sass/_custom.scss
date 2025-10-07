@@ -1,0 +1,32 @@
+
+
+.page-header {
+    padding-top: 250px; 
+    padding-bottom: 10px; 
+    min-height: 80vh; /* Ensure the header takes up most of the screen */
+    display: flex; /* Use Flexbox for better vertical centering */
+    flex-direction: column;
+    justify-content: center;
+
+    /*.header-name{
+        // smooth transition
+        transition: transform 0.2s ease-in-out; 
+    
+        animation: text-pulse 5s infinite alternate;
+    }
+    */
+
+    .title-bar{
+        padding-top: 350px;
+    }
+    
+    .executive-summary{
+        padding-top: 10px;
+    }
+}
+
+@keyframes text-pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.05); } /* Grow by 1% */
+  100% { transform: scale(1); }
+}

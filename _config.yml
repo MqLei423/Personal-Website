@@ -10,8 +10,8 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "MengQi Lei"
-resume_title:                   "<strong>Software Engineer & Game Developer</strong>"
+resume_name:                    MengQi Lei<br> <br><strong><em>Software Engineer & Game Developer</em></strong>
+resume_title:                   "<strong>About me</strong>"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "lisasimpson@youremailaddress.com"
