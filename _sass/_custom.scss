@@ -15,14 +15,29 @@
         animation: text-pulse 5s infinite alternate;
     }
     */
+    .scroll-down-arrow {
+    display: block;
+    margin: 2rem auto; 
+    
+    width: 50px; 
+    height: auto;       
+    
+    animation: bounce-arrow 1.5s infinite ease-in-out;
+    }  
 
     .title-bar{
-        padding-top: 350px;
+        padding-top: 200px;
     }
     
     .executive-summary{
         padding-top: 10px;
     }
+}
+
+// animations
+@keyframes bounce-arrow {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(10px); } 
 }
 
 @keyframes text-pulse {
