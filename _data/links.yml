@@ -1,5 +1,15 @@
 # links
-- url: "#"
-  description: Springfield Jazz Enthusiasts
-- url: "#"
-  description: Springfield Young Professionals
+- url: "/assets/downloads/MengQi-Lei-Resume.pdf"
+  description: <strong>Download My Resume</stong>
+
+- url: "https://github.com/MqLei423"
+  description: Check out some of my projects
+
+- url: "https://www.linkedin.com/in/mengqi-lei/"
+  description: Connect with me on LinkedIn
+
+- url: "https://mqlei.itch.io"
+  description: Play some games I made
+
+- url: "https://www.youtube.com/@MqLei"
+  description: Visit my YouTube channel

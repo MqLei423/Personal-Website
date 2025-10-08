@@ -43,7 +43,7 @@ resume_section_education:       false
 resume_section_projects:        false
 resume_section_skills:          false
 resume_section_recognition:     false
-resume_section_links:           false
+resume_section_links:           true
 resume_section_associations:    false
 # resume_section_interests:       true
 
@@ -57,7 +57,7 @@ resume_social_links:
   resume_linkedin_url:          "https://www.linkedin.com/in/mengqi-lei/"
   # resume_instagram_url:         "insert your Instagram URL here"
   # resume_website_url:           "http://joelglovier.com"
-  # resume_medium_url:            "https://medium.com/@jglovier"
+  # resume_medium_url:            ""
 resume_print_social_links:      true
 
 # Design settings
